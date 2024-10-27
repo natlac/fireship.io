@@ -18,7 +18,7 @@ If you're following the course using **Svelte version 5 with Runes**, check out 
 
 - [Full Project Source Code v4](https://github.com/fireship-io/fkit-course)
 - [Full Project Source Code v5](https://github.com/fireship-io/fkit-course/tree/svelte5)
-- [Official Svelte Tutorial](https://svelte.dev/tutorial/basics)
+- [Official Svelte Tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
 - [SvelteKit Docs](https://kit.svelte.dev/)
 
 ## Create a SvelteKit Project
